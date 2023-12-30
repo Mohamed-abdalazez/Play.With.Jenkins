@@ -35,3 +35,6 @@
   - Dynamic Agent
     - Machine that is provisioned on-demand to serve as a build agent.
     - Jenkins can dynamically spin up instances (virtual machines or containers) as needed and tear them down once the build is complete.
+- In Jenkins, builds can generally be categorized into two primary types:
+   - Freestyle Builds.
+   - Pipeline Builds.
