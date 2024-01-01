@@ -53,8 +53,8 @@
 ### Installing Jenkins.
 - There are various methods to install Jenkins, as outlined on the [official website](https://www.jenkins.io/doc/book/installing/). However, for this repository, I will be using ```Docker```.
 - Docker must be installed beforehand;[```see here```](https://github.com/Mohamed-abdalazez/DockerInDeep#desc7).
-- Utilize this [```repository```](https://github.com/devopsjourney1/jenkins-101/tree/master#installation) for the installation.
-- Also, take a look at the [```official documentation```](https://github.com/jenkinsci/docker/blob/master/README.md).
+- Take a look at the [```official documentation```](https://github.com/jenkinsci/docker/blob/master/README.md).
+- Soon, I will add the detailed steps.
 - After installing it, you should see this page when you visit ```http://localhost:8080```:
 
   <img alt="Getting Started" src="assets/Getting_Started.png">
