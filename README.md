@@ -54,13 +54,13 @@
 - There are various methods to install Jenkins, as outlined on the [official website](https://www.jenkins.io/doc/book/installing/). However, for this repository, I will be using ```Docker```.
 - Docker must be installed beforehand;[```see here```](https://github.com/Mohamed-abdalazez/DockerInDeep#desc7).
 - Take a look at the [```official documentation```](https://github.com/jenkinsci/docker/blob/master/README.md).
-- Soon, I will add the detailed steps.
+- Check out this [```Bash script```](https://github.com/Mohamed-abdalazez/Play.With.Jenkins/blob/main/scripts/install.sh) for installing Jenkins.
 - After installing it, you should see this page when you visit ```http://localhost:8080```:
 
   <img alt="Getting Started" src="assets/Getting_Started.png">
 
     - After that, you will see this GUI to customize Jenkins. Plugins extend Jenkins with additional features to support many different needs.
     - After Installation, Create the First Admin User.
-    - Congratulations! Let's explore almost all components in the GUI and briefly understand each one.
-
+    - Congratulations!.
+      
        <img alt="Welcome" src="assets/Welcome.png">
