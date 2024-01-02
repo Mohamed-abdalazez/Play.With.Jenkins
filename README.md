@@ -59,7 +59,7 @@
 
   <img alt="Getting Started" src="assets/Getting_Started.png">
 
-    - After that, you will see this GUI to customize Jenkins. Plugins extend Jenkins with additional features to support many different needs.
+    - After that, you will see GUI to customize Jenkins. Plugins extend Jenkins with additional features to support many different needs.
     - After Installation, Create the First Admin User.
     - Congratulations!.
       
